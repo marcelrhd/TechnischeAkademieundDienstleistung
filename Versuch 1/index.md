@@ -1,0 +1,10 @@
+# Hilfsmittel
+* https://www.w3schools.com/bootstrap4/bootstrap_cards.asp
+* https://www.w3schools.com/php7/php7_intro.asp
+* https://getbootstrap.com/docs/4.3/getting-started/introduction/
+* https://getbootstrap.com/docs/4.0/layout/grid/
+* https://code.visualstudio.com/Download
+* https://hwa-dev.xmart.de/hwa/#/
+* https://getbootstrap.com/docs/4.0/layout/grid/
+* https://mdbootstrap.com/docs/jquery/layout/grid-examples/
+* https://basscss.com/v7/docs/background-colors/
