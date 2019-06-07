@@ -1,0 +1,76 @@
+.whitebackground{
+    border: 2px solid white;
+    border-radius: 5px;
+    background: white;
+}
+.background{
+    border: 2px solid;
+    border-radius: 5px;
+}
+.margin-logo{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.margin-header{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.margin-main{
+    margin-top:5px;
+    margin-bottom:5px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.margin-main-card{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.main-p-mr{
+    text-align:justify;
+    font-size: 100%;
+}
+.card-mr{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+/* Cards CSS Anfang*/
+/* Cards CSS Ende*/
+.card-body-mr{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.margin-footer{
+    margin-top:5px;
+    margin-bottom:5px;
+    padding-top: 30px;
+    padding-bottom: 10px; 
+}
+.footer-a-mr{
+    text-decoration: underline;
+    text-align: center;
+}
+.footer-p-mr{
+    margin-top: 3px;
+    text-align: left;
+    text-align: center;
+}
+.ulnostyle{
+    list-style-type: none;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 125%;
+}
+.green-text{
+    color: #128B4A;
+}
+.green-background{
+    background-color: #128B4A;
+    border-color: #128B4A;
+}
